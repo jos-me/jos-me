@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jos-me
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in frond-end development and web design
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on web-based projects
 - 📫 Reach me on my twitter @py4fun
 
